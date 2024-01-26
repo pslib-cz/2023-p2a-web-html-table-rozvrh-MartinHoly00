@@ -1,0 +1,21 @@
+table{
+    width: 1000px;
+    table-layout: fixed;
+}
+
+th{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+td{
+    height: 12.5px;
+    width: 50px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.td-2{
+
+}
