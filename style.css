@@ -1,3 +1,7 @@
+body{
+    background-color: rgba(0, 0, 0, 0.445);
+}
+
 table{
     width: 1000px;
     table-layout: fixed;
@@ -23,5 +27,5 @@ td{
 .td-1{
     background-color: none;
     border: none;
-    
+
 }
